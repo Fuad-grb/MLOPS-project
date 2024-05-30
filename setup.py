@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "MLOPS-PROJECT"
 AUTHOR_USER_NAME = "Fuad-grb"
-SRC_REPO = "MLOps_project"
+SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "fuadgurbanov.ai@gmail.com"
 
 
